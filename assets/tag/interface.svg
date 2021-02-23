@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>tag/active/interface</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tag/active/interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,23.3879225 L25,32 C25,33.6568542 23.6568542,35 22,35 L16,35 C14.3431458,35 13,33.6568542 13,32 L13,15 C13,13.3431458 14.3431458,12 16,12 L16,12 L22,12 C23.6568542,12 25,13.3431458 25,15" id="Path-Copy" fill="#FFA3A3" transform="translate(19.000000, 23.500000) rotate(-45.000000) translate(-19.000000, -23.500000) "></path>
+        <path d="M25.6421356,18.2622911 L25.6421356,18.2622911 L25.6421356,26.8743687 C25.6421356,28.5312229 24.2989899,29.8743687 22.6421356,29.8743687 L16.6421356,29.8743687 C14.9852814,29.8743687 13.6421356,28.5312229 13.6421356,26.8743687 L13.6421356,9.87436867 C13.6421356,8.21751442 14.9852814,6.87436867 16.6421356,6.87436867 L22.6421356,6.87436867" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.642136, 18.374369) rotate(-45.000000) translate(-19.642136, -18.374369) "></path>
+    </g>
+</svg>

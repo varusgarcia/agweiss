@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>tag/active/animation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tag/active/animation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <circle id="Oval-Copy-2" stroke="#7F7F7F" stroke-width="2" fill="#FFF6C7" cx="15.5" cy="15.5" r="6.5"></circle>
+        <circle id="Oval-Copy" stroke="#4C4C4C" stroke-width="2" fill="#FEF2B1" cx="20.5" cy="20.5" r="6.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="2" fill="#FFED8F" cx="25.5" cy="25.5" r="6.5"></circle>
+    </g>
+</svg>

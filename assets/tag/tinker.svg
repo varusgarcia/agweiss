@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>tag/active/tinker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tag/active/tinker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.48959236,13.4895924 C8.40847305,12.5707117 9.898273,12.5707117 10.8171537,13.4895924 L18.8033009,21.4757395 C19.7221815,22.3946202 19.7221815,23.8844202 18.8033009,24.8033009 C17.8844202,25.7221815 16.3946202,25.7221815 15.4757395,24.8033009 L7.48959236,16.8171537 C6.57071167,15.898273 6.57071167,14.408473 7.48959236,13.4895924 Z" id="Rectangle" fill="#C5B4FF"></path>
+        <path d="M12.5,21.9 L8.21428571,17.4 C7.25428571,16.392 7.25428571,14.808 8.21428571,13.8 C9.1159751,12.8532261 10.6144506,12.816678 11.5612245,13.7183673 L11.6428571,13.8 L18.4261084,20.9224138 C18.9739721,21.4976707 19.2997466,22.2459067 19.3502377,23.0341366 L19.3571429,23.25 C19.3571429,24.1166208 19.6905078,24.9500332 20.2881773,25.5775862 L24.5,30" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M27,23 C28,20.5 29,20.0012267 29,18 C29,15.9987733 28,15.5 27,13" id="Path-6" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M21,19 C22.0577487,16 24,15.5593893 24,13 C24,10.4406107 22.0577487,10 21,7" id="Path-6-Copy" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.500000, 13.000000) scale(-1, 1) translate(-22.500000, -13.000000) "></path>
+    </g>
+</svg>

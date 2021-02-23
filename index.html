@@ -1,0 +1,89 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>AGWeiss</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <div id="navbar-container">
+    <div id="navbar-logo-container">
+      <div id="navbar-logo-img"></div>
+    </div>
+    <div id="navbar-tags-container">
+      <a id="navbar-tag-interface" class="navbar-tag" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)"></a>
+      <a id="navbar-tag-animation" class="navbar-tag" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)"></a>
+      <a id="navbar-tag-code" class="navbar-tag" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)"></a>
+      <a id="navbar-tag-film" class="navbar-tag" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)"></a>
+      <a id="navbar-tag-tinker" class="navbar-tag" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)"></a>
+
+    </div>
+  </div>
+  <div id="content-container">
+    <div id="content">
+      <div id="header">
+        <div id="header-user-container">
+          <img id="header-user-img" src="./assets/user.png" alt="">
+          <p id="header-user-title">Alvaro Garcia</p>
+          <p id="header-user-subtitle">@agweiss</p>
+        </div>
+        <div id="header-tags-container">
+          <div id="header-tags-left-container">
+            <p class="header-tags-title" id="header-tags-left-title">Studying</p>
+            <a id="header-tags-interface-dark" class="header-tag-container" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)">
+              <div id="header-tag-interface-dark" class="header-tag-icon">
+              </div>
+              <p class="header-tag header-tag-left" id="header-tag-text-interface">Interface<br>Design</p>
+            </a>
+          </div>
+          <div id="header-tags-right-container">
+            <p class="header-tags-title" id="header-tags-right-title">Passionate</p>
+            <a id="header-tags-animation-dark" class="header-tag-container" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)">
+              <p class="header-tag header-tag-right" id="header-tag-text-animation">Animator</p>
+              <div id="header-tag-animation-dark" class="header-tag-icon ">
+              </div>
+            </a>
+            <a id="header-tags-code-dark" class="header-tag-container" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)">
+              <p class="header-tag header-tag-right" id="header-tag-text-code">Coder</p>
+              <div id="header-tag-code-dark" class="header-tag-icon ">
+              </div>
+            </a>
+            <a id="header-tags-film-dark" class="header-tag-container" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)">
+              <p class="header-tag header-tag-right" id="header-tag-text-film">Filmer</p>
+              <div id="header-tag-film-dark" class="header-tag-icon">
+              </div>
+            </a>
+            <a id="header-tags-tinker-dark" class="header-tag-container" onmouseenter="hoverEnterTagAnimation(this.id)" onmouseleave="hoverLeaveTagAnimation(this.id)" onclick="clickedTagAnimation(this.id)">
+              <p class="header-tag header-tag-right" id="header-tag-text-tinker">Tinkerer</p>
+              <div id="header-tag-tinker-dark" class="header-tag-icon ">
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="container grid">
+        <div id="card-container" class="row">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.9/lottie.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="js/animation-handler.js"></script>
+  <script src="js/card-handler.js"></script>
+  <script src="js/scripts.js"></script>
+
+
+</body>
+
+</html>

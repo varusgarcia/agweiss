@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>tag/active/code</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tag/active/code" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,12 L20.6243242,11.6239005 L23.7163558,12.0965096 C25.8773304,12.426809 27.573191,14.1226696 27.9034904,16.2836442 L28.3366486,19.1175697 L28,28 L19.4930171,28.3940348 L16.2836442,27.9034904 C14.1226696,27.573191 12.426809,25.8773304 12.0965096,23.7163558 L11.7322127,21.3329537 L12,12 Z" id="Rectangle-Copy" fill="#D2FDA4"></path>
+        <path d="M28,18 L28,28 L18,28 M12,22 L12,12 L22,12" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="14" y1="32" x2="26" y2="8" id="Path-7" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.000000, 20.000000) rotate(19.000000) translate(-20.000000, -20.000000) "></line>
+    </g>
+</svg>
